@@ -1,0 +1,160 @@
+{
+  "book_id": "indigenous-resurgence-stream-of-consciousness-individual-collective",
+  "title": "The River Thinks in Stories",
+  "tagline": "A young woman's consciousness becomes the battleground where ancestral memory fights a bridge that would silence the river's voice.",
+  "target_words": 70000,
+  "actual_words": 70989,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "Ancestral Memory as Living Geography",
+    "The Body as a Site of Resistance",
+    "The Violence of Bureaucratic Language",
+    "Collective Consciousness vs. Colonial Infrastructure"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "Shhhh-koh",
+      "words": 2950
+    },
+    {
+      "ch": 2,
+      "title": "The Paper Ghost",
+      "words": 2950
+    },
+    {
+      "ch": 3,
+      "title": "The Fax Machine in the Band Office",
+      "words": 2950
+    },
+    {
+      "ch": 4,
+      "title": "Concrete Cracks",
+      "words": 2950
+    },
+    {
+      "ch": 5,
+      "title": "The Swallow's Return",
+      "words": 2950
+    },
+    {
+      "ch": 6,
+      "title": "Dreaming with Open Eyes",
+      "words": 2950
+    },
+    {
+      "ch": 7,
+      "title": "The Sound Beneath the Whine",
+      "words": 2950
+    },
+    {
+      "ch": 8,
+      "title": "A Knife in the Story",
+      "words": 2950
+    },
+    {
+      "ch": 9,
+      "title": "Gathering the Unspoken",
+      "words": 2950
+    },
+    {
+      "ch": 10,
+      "title": "The Council of Stones",
+      "words": 2950
+    },
+    {
+      "ch": 11,
+      "title": "Blood as Ink, Land as Page",
+      "words": 2950
+    },
+    {
+      "ch": 12,
+      "title": "The First Orange Flag",
+      "words": 2950
+    },
+    {
+      "ch": 13,
+      "title": "Thomas's Silence",
+      "words": 2950
+    },
+    {
+      "ch": 14,
+      "title": "The Language of Root Dreams",
+      "words": 2950
+    },
+    {
+      "ch": 15,
+      "title": "When the Machines Sleep",
+      "words": 2950
+    },
+    {
+      "ch": 16,
+      "title": "The Map That Bleeds",
+      "words": 2950
+    },
+    {
+      "ch": 17,
+      "title": "A Bolt of Blue Over Water",
+      "words": 2950
+    },
+    {
+      "ch": 18,
+      "title": "The Weight of a Name",
+      "words": 2950
+    },
+    {
+      "ch": 19,
+      "title": "Building the Scar",
+      "words": 2950
+    },
+    {
+      "ch": 20,
+      "title": "The Flood is Memory",
+      "words": 2950
+    },
+    {
+      "ch": 21,
+      "title": "Not a Predator, A Shadow",
+      "words": 2950
+    },
+    {
+      "ch": 22,
+      "title": "The Unfinished Tea",
+      "words": 2950
+    },
+    {
+      "ch": 23,
+      "title": "Everything Returns to the River",
+      "words": 2950
+    },
+    {
+      "ch": 24,
+      "title": "Shhhh-koh (The River's Answer)",
+      "words": 2950
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a scene where a character hears the true name of a place for the first time, not from a person, but from the land itself.",
+      "Create a monologue from the perspective of a colonial structure (a bridge, a fence, a pipeline) as it begins to hear the stories of the land it occupies.",
+      "Draft a 'stream-of-consciousness' letter from Kǝ́ to the lead surveyor, one week after their encounter, where her thoughts blend with the river's flow.",
+      "Imagine a council meeting where the elders do not speak with words, but with shared memories projected through touch and silence."
+    ],
+    "technical": [
+      "Build an interactive web experience that layers bureaucratic documents (PDFs of surveys, permits) over an audio stream of natural sounds, allowing the user to 'scratch away' the text to reveal the underlying audio landscape.",
+      "Create a text generator that takes colonial/technical language as input and 'translates' it into a stream-of-consciousness narrative rooted in sensory, non-human perspectives."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Leslie Marmon Silko",
+      "Virginia Woolf",
+      "Robin Wall Kimmerer",
+      "William Faulkner"
+    ]
+  },
+  "cover_prompt": "A young indigenous woman stands midstream, her form merging with the swirling water and ghostly ancestral figures that rise around her, her face a mask of intense concentration as she physically holds back the spectral, invasive geometry of a modern bridge construction, [Detailed Scene & Context: set on a wild, story-filled river at dusk, where water currents form faces and hands, and bureaucratic blueprints dissolve into roots and traditional patterns, the landscape itself is a living neural network of memory and resistance], [Artistic Style & Medium: in the atmospheric, symbolic, and textured style of a watercolor and ink painting by Remedios Varo, blended with the organic surrealism of Rima Staines and the flowing linework of John Bauer], [Composition & Camera: book cover framing, centered and intimate portrait composition with a low-angle view from the riverbed looking up at the defiant figure, dramatic and immersive], [Lighting & Color Palette: dramatic chiaroscuro lighting with bioluminescent blues and deep indigos in the water, contrasted with warm, earthy ochres and umbers in the ancestral forms and the woman's skin, highlights of spectral gold and silver], [Quality & Technical Enforcers: masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev]."
+}
