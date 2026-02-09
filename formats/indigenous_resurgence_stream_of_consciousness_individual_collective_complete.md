@@ -1,3 +1,5 @@
+# Chapter 1
+
 ## **CHAPTER 1**
 
 The river didn’t have a name on their maps. It had a sound. *Shhhh-koh*. The push of current against the round-bellied stones, the hiss-sigh of it. Kǝ́ sat on the bank, her bare feet in the water so cold it was a sharp, clean pain. She was peeling a willow stick with her thumbnail, the green skin coming away in long, sticky curls. The white flesh beneath tasted of aspirin and spring. She chewed a piece, letting the bitterness flood her tongue, her eyes on the opposite shore where the old growth stood, dark and breathing.
@@ -193,6 +195,8 @@ She picked up the heartstone, warm from her hand now, and pressed it to her fore
 It was just the beginning.
 
 ---
+# Chapter 2
+
 ## **CHAPTER 2**
 
 The band council hall smelled of old coffee, pine-sol, and damp wool. Folding chairs squeaked on linoleum. Kǝ́ sat between Thomas and her mother in the third row, a spectator to a ritual that felt both ancient and hopelessly small. The fluorescent lights buzzed like trapped flies.
@@ -364,6 +368,8 @@ He smiled, a real one, crinkling the corners of his eyes. “Then let’s go bui
 The drive back down was filled not with silence, but with a low, planning hum. The ghost on the paper had won a vote. But on the land, in the growing morning, a different kind of writing was about to begin. Not with ink, but with presence. Not with words, but with songs and stones and the unwavering fact of their bodies, planted like trees on the bank of *shhhh-koh*.
 
 ---
+# Chapter 3
+
 ## **CHAPTER 3**
 
 The first tent was a faded blue dome, a relic of Thomas’s fishing trips. Kǝ́ and he pitched it ten yards back from the bank, just inside the tree line where the grandmother cottonwood spread her arms. It wasn’t on the survey line. It was beside it. A neighbor. By the time the afternoon sun slanted through the firs, Gary the fisherman had arrived with a bigger canvas tent, an old army surplus thing that smelled of mildew and resilience. He brought a cooler full of sockeye fillets, frozen solid. “Figure we’ll need to eat,” he grunted, heaving it onto a tarp.
