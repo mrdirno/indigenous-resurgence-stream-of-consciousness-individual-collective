@@ -2,7 +2,9 @@
 
 ## **CHAPTER 1**
 
-The river didn’t have a name on their maps. It had a sound. *Shhhh-koh*. The push of current against the round-bellied stones, the hiss-sigh of it. Kǝ́ sat on the bank, her bare feet in the water so cold it was a sharp, clean pain. She was peeling a willow stick with her thumbnail, the green skin coming away in long, sticky curls. The white flesh beneath tasted of aspirin and spring. She chewed a piece, letting the bitterness flood her tongue, her eyes on the opposite shore where the old growth stood, dark and breathing.
+River-stone smooth in her palm, cold as a forgotten name. Voices in the current, not hers, not yet—Grandmother’s laugh tangled with diesel fumes from the new road. One stone. One story. She closes her fist. The river doesn’t stop.
+
+
 
 Her uncle’s voice came from behind, not loud, just a vibration in the air. “They’re coming for the survey today.”
 
